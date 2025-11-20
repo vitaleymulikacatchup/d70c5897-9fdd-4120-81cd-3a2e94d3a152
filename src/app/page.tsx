@@ -335,6 +335,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterBase
+          logoText="F1 Teams Hub"
           copyrightText="© 2025 | F1 Teams Hub"
           columns={[
             {
